@@ -1,0 +1,9 @@
+.container {
+    text-align: center;
+}
+
+.package, .package2 {
+    display: flex;
+    justify-content: space-between;
+    
+}
